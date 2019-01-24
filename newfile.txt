@@ -1,0 +1,21 @@
+Contents of $_SERVER:
+application/x-www-form-urlencoded; no-cache; 02dc00b9-201f-4917-b141-9892136ca256; PostmanRuntime/7.6.0; */*; violetbit.in; gzip, deflate; 107; keep-alive; C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Program Files\Amazon\AWSCLI\bin\;C:\PostgreSQL\pg10\bin;C:\wamp64\bin\php\php7.2.10;C:\ProgramData\ComposerSetup\bin;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps; C:\WINDOWS; C:\WINDOWS\system32\cmd.exe; .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC; C:\WINDOWS; <address>Apache/2.4.35 (Win64) PHP/5.6.38 Server at violetbit.in Port 80</address>
+; Apache/2.4.35 (Win64) PHP/5.6.38; violetbit.in; 127.0.0.1; 80; 127.0.0.1; E:/ANSC/Project/VioletBit; http; ; E:/ANSC/Project/VioletBit; wampserver@wampserver.invalid; E:/ANSC/Project/VioletBit/gps/api.php; 52781; CGI/1.1; HTTP/1.1; POST; ; /gps/api.php; /gps/api.php; /gps/api.php; 1548329008.335; 1548329008
+
+Contents of $_GET:
+
+
+Contents of $_POST:
+
+
+Contents of Raw data:
+{
+	"password": "abinesh",
+	"hash": "%242a%2410%24P%2F1HEKQ58OEtBq5JoqcZreDN0ohNO4hWLDVidnbuQZnbMKwqlMpDC"
+}
+
+Contents of getallheaders:
+application/x-www-form-urlencoded; no-cache; 02dc00b9-201f-4917-b141-9892136ca256; PostmanRuntime/7.6.0; */*; violetbit.in; gzip, deflate; 107; keep-alive
+
+Contents of apache_request_headers:
+application/x-www-form-urlencoded; no-cache; 02dc00b9-201f-4917-b141-9892136ca256; PostmanRuntime/7.6.0; */*; violetbit.in; gzip, deflate; 107; keep-alive
